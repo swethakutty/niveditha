@@ -1,4 +1,9 @@
 first line
 second line
 third line
+<<<<<<< HEAD
 fourth line 
+=======
+sreeja line
+
+>>>>>>> dev
